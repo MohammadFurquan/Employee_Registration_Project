@@ -26,9 +26,27 @@ This project implements an Employee Registration System using SQL for database m
 - MySQL database
 - `mysql-connector-python` module (`pip install mysql-connector-python`)
 
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/MohammadFurquan/Employee_Registration_Project.git
+    ```
+2. Navigate to the project directory
+    ```bash
+    cd Employee_Registration_Project
+    ```
+
+3. Configure the database:
+- Ensure your MySQL database is set up.
+- Update the database connection details in config.py.
 ## Usage
 1. Run the application:
+```bash
 python main.py
+```
 
 
 2. Application Interface:
