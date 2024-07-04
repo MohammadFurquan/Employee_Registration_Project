@@ -1,7 +1,10 @@
 # Employee Registration System
 
+
 ## Overview
 This project implements an Employee Registration System using SQL for database management and Python with Tkinter for the graphical user interface (GUI). It provides a GUI where users can interact with the database to add, update, delete, and refresh employee records.
+
+![EMPLOYEE_REGISTRATION](https://github.com/MohammadFurquan/Mini-Project-of-SQL/assets/113228830/3910d877-e4c2-4d45-8fc5-3bb3563f8dc9)
 
 ![Employee Registration System Demo](demo.gif)
 
@@ -22,10 +25,6 @@ This project implements an Employee Registration System using SQL for database m
 - Tkinter library (usually included in standard Python distributions)
 - MySQL database
 - `mysql-connector-python` module (`pip install mysql-connector-python`)
-
-## Installation
-1. Clone the repository:
-
 
 ## Usage
 1. Run the application:
@@ -62,4 +61,4 @@ Check out my other projects at [GitHub](https://github.com/MohammadFurquan). </b
 Thank you!
 
 
-![EMPLOYEE_REGISTRATION](https://github.com/MohammadFurquan/Mini-Project-of-SQL/assets/113228830/3910d877-e4c2-4d45-8fc5-3bb3563f8dc9)
+
