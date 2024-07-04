@@ -21,7 +21,7 @@ This project implements an Employee Registration System using SQL for database m
 - **mysql.connector:** Python module used to connect MySQL with Python.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Tkinter library (usually included in standard Python distributions)
 - MySQL database
 - `mysql-connector-python` module (`pip install mysql-connector-python`)
